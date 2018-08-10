@@ -1,2 +1,2 @@
 # Curriculum-Dev
-Data science curriculum 
+Data science curriculum for students
